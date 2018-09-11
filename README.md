@@ -13,7 +13,7 @@ python3 Wiki2Model_S-Enrich.py --language EN --download in/db/ --extractor tools
 ### Related scripts
 * [Wiki2Model.py](https://github.com/joao8tunes/Wiki2Model/blob/master/Wiki2Model.py)
 * [Wiki2Model_S-Enrich.py](https://github.com/joao8tunes/Wiki2Model/blob/master/Wiki2Model_S-Enrich.py)
-* [WikiExtractor.py](https://github.com/attardi/wikiextractor/blob/master/WikiExtractor.py)
+* [WikiExtractor.py](https://github.com/joao8tunes/Wiki2Model/blob/master/WikiExtractor.py)
 * [S-Enrich_Bfy.jar](https://github.com/joao8tunes/S-Enrich/blob/master/S-Enrich_Bfy/executable/S-Enrich_Bfy.jar)
 
 
